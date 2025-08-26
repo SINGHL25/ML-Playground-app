@@ -51,3 +51,68 @@
 ```bash
 git clone <your-repo-url>
 cd <repo-folder>
+
+
+🌟 Features of the Advanced ML Playground
+1️⃣ Dataset Options
+
+Built-in datasets: Iris, Wine, Breast Cancer
+
+Synthetic 2D datasets: Moons, Circles, Blobs
+
+Synthetic 3D datasets (classification)
+
+Upload your own CSV
+
+2️⃣ Algorithms
+Classification
+
+Decision Tree
+
+Random Forest
+
+Logistic Regression
+
+Bagging Classifier
+
+AdaBoost
+
+Gradient Boosting
+
+XGBoost
+
+Voting Classifier
+
+Regression
+
+Linear Regression
+
+Gradient Boosting Regressor
+
+XGBoost Regressor
+
+Clustering
+
+KMeans
+
+DBSCAN
+
+3️⃣ Features
+
+Train/Test split with random_state
+
+Hyperparameters (interactive via sidebar)
+
+Accuracy / Classification report for classifiers
+
+RMSE / R² for regressors
+
+Cross-validation scores
+
+GridSearchCV tuning
+
+Export/import trained models using pickle
+
+2D and automatic 3D visualizations of decision boundaries or scatter
+
+Interactive explanation of classifiers and regressors
