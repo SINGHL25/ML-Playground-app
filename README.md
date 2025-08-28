@@ -1,4 +1,5 @@
 # ML-Playground-app
+<img width="682" height="677" alt="image" src="https://github.com/user-attachments/assets/bd4cb6a1-cdcb-45a5-b6c5-30dc67ffbf17" />
 
 # Advanced ML Playground
 
